@@ -104,5 +104,4 @@ $ npm test sum.test.js
 
 |  No | problems  | src | Related Topics | 
 | --- | ------------- | ------------- | ------------- |
-| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [src](https://github.com/tiaz0128/leetcode/blob/master/src/sum.js)  | `Array` |
-| Content Cell  | Content Cell  |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [src](https://github.com/tiaz0128/leetcode/blob/master/src/189.rotateArray.js)  | `Array` |
