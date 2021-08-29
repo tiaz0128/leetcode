@@ -1,18 +1,24 @@
-# leetcode & jest
+# leetcode & Jest
 - [leetcode](https://leetcode.com) 알고리즘 문제를 정리한다.
-- `jest` 를 이용하여 test case 를 추가한다.
+- `Jest` 를 이용하여 test case 를 추가한다.
 
 <p align="center">
-  <img src="./img/title.png"/>
+  <img src="./img/title.png" height="180">
 </p>
-
-<div align="center">
-  <img src= "https://leetcode-stats-six.vercel.app/api?username=tiaz0128&theme=dark">
-</div>
 
 <br/>
 
-## jest 설치
+## LeetCode Stats
+<p>
+  <a href="https://leetcode.com/tiaz0128/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=tiaz0128&theme=dark"/>
+  </a>
+</p>
+
+
+<br/>
+
+## Jest 설치
 ```bash
 $ npm init -y
 
@@ -47,7 +53,7 @@ $ npm install -D @types/jest @babel/core @babel/preset-env
 
 <br/>
 
-## babel & jest 설정 파일 생성 및 작성
+## babel & Jest 설정 파일 생성 및 작성
 `.babelrc.json` 생성
 
 ```json
@@ -92,3 +98,11 @@ $ npm test ./src/sum.test.js
 
 $ npm test sum.test.js
 ```
+<br/>
+
+## solution
+
+|  No | problems  | src | Related Topics | 
+| --- | ------------- | ------------- | ------------- |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [src](https://github.com/tiaz0128/leetcode/blob/master/src/sum.js)  | `Array` |
+| Content Cell  | Content Cell  |
