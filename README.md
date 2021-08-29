@@ -106,3 +106,4 @@ $ npm test sum.test.js
 | --- | -------- | ---------- | --- | -------------- |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/189.rotateArray.js)  | `Array` |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/283.moveZeroes.js)  | `Array` `Two Pointer` |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/167.twoSum2.js) | `Array` `Two Pointers` `Binary Search` |
