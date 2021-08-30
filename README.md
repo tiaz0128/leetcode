@@ -66,6 +66,7 @@ $ npm install -D @types/jest @babel/core @babel/preset-env
 
 ```json
 {
+  "collectCoverage": true,
   "moduleFileExtensions": ["js", "mjs"],
   "transform": {
     "^.+\\.js$": "babel-jest",
@@ -108,4 +109,5 @@ $ npm test sum.test.js
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/283.moveZeroes.js)  | `Array` `Two Pointer` |
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/167.twoSum2.js) | `Array` `Two Pointers` `Binary Search` |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/88.mergeSortedArray.js)  | `Array` `Two Pointers` `Sorting` |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/350.intersectionOfTwoArrays2.js)  | `Array` `HashTable` `Two Pointers` |
 
