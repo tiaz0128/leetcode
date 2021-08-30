@@ -112,4 +112,5 @@ $ npm test sum.test.js
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/350.intersectionOfTwoArrays2.js)  | `Array` `HashTable` `Two Pointers` |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/121.bestTimetoBuyandSellStock.js)  | `Array` `Dynamic Programming` |
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/566.reshapeTheMatrix.js)  | `Array` `Matrix` `Simulation` |
-| 118 | Pascal's Triangle | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/118.pascalsTriangle.js)  | `Array`  `Dynamic Programming` |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/118.pascalsTriangle.js)  | `Array`  `Dynamic Programming` |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/344.reverseString.js)  | `String`  `Two Pointers` `Recursion` |
