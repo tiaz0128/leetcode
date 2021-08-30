@@ -111,3 +111,4 @@ $ npm test sum.test.js
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/88.mergeSortedArray.js)  | `Array` `Two Pointers` `Sorting` |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/350.intersectionOfTwoArrays2.js)  | `Array` `HashTable` `Two Pointers` |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/121.bestTimetoBuyandSellStock.js)  | `Array` `Dynamic Programming` |
+| 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/566.reshapeTheMatrix.js)  | `Array` `Matrix` `Simulation` |
