@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630298491705" clover="3.2.0">
-  <project timestamp="1630298491706" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="15" coveredelements="15" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
-    <file name="566.reshapeTheMatrix.js" path="D:\workspace\leetcode\src\566.reshapeTheMatrix.js">
-      <metrics statements="12" coveredstatements="12" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="3" type="stmt"/>
-      <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="12" count="2" type="stmt"/>
-      <line num="14" count="2" type="stmt"/>
-      <line num="15" count="2" type="stmt"/>
-      <line num="16" count="4" type="stmt"/>
-      <line num="17" count="4" type="stmt"/>
-      <line num="18" count="10" type="stmt"/>
-      <line num="20" count="4" type="stmt"/>
-      <line num="23" count="2" type="stmt"/>
-      <line num="24" count="2" type="stmt"/>
+<coverage generated="1630301188321" clover="3.2.0">
+  <project timestamp="1630301188321" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="21" coveredelements="21" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="118.pascalsTriangle.js" path="D:\workspace\leetcode\src\118.pascalsTriangle.js">
+      <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="8" type="stmt"/>
+      <line num="9" count="8" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="19" type="stmt"/>
+      <line num="12" count="19" type="stmt"/>
+      <line num="14" count="8" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="8" type="stmt"/>
+      <line num="23" count="8" type="stmt"/>
+      <line num="24" count="8" type="stmt"/>
+      <line num="25" count="6" type="stmt"/>
+      <line num="27" count="8" type="stmt"/>
+      <line num="29" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
