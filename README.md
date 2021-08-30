@@ -110,4 +110,4 @@ $ npm test sum.test.js
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/167.twoSum2.js) | `Array` `Two Pointers` `Binary Search` |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/88.mergeSortedArray.js)  | `Array` `Two Pointers` `Sorting` |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/350.intersectionOfTwoArrays2.js)  | `Array` `HashTable` `Two Pointers` |
-
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/121.bestTimetoBuyandSellStock.js)  | `Array` `Dynamic Programming` |
