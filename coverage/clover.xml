@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630376191128" clover="3.2.0">
-  <project timestamp="1630376191128" name="All files">
-    <metrics statements="24" coveredstatements="21" conditionals="12" coveredconditionals="10" methods="4" coveredmethods="4" elements="40" coveredelements="35" complexity="0" loc="24" ncloc="24" packages="1" files="1" classes="1"/>
-    <file name="36.validSudoku.js" path="D:\workspace\leetcode\src\36.validSudoku.js">
-      <metrics statements="24" coveredstatements="21" conditionals="12" coveredconditionals="10" methods="4" coveredmethods="4"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="8" count="90" type="stmt"/>
-      <line num="9" count="90" type="stmt"/>
-      <line num="11" count="9" type="stmt"/>
-      <line num="12" count="81" type="stmt"/>
-      <line num="13" count="81" type="stmt"/>
-      <line num="15" count="81" type="cond" truecount="2" falsecount="0"/>
-      <line num="16" count="65" type="cond" truecount="1" falsecount="1"/>
-      <line num="17" count="0" type="stmt"/>
-      <line num="19" count="81" type="cond" truecount="2" falsecount="0"/>
-      <line num="20" count="65" type="cond" truecount="1" falsecount="1"/>
-      <line num="21" count="0" type="stmt"/>
-      <line num="26" count="1" type="stmt"/>
-      <line num="27" count="2" type="stmt"/>
-      <line num="28" count="40" type="stmt"/>
-      <line num="29" count="4" type="stmt"/>
-      <line num="30" count="12" type="stmt"/>
-      <line num="31" count="36" type="stmt"/>
-      <line num="33" count="36" type="stmt"/>
-      <line num="35" count="36" type="cond" truecount="2" falsecount="0"/>
-      <line num="36" count="27" type="cond" truecount="2" falsecount="0"/>
-      <line num="37" count="1" type="stmt"/>
-      <line num="43" count="0" type="stmt"/>
+<coverage generated="1630386005079" clover="3.2.0">
+  <project timestamp="1630386005079" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2" elements="21" coveredelements="21" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="74.search2dMatrix.js" path="D:\workspace\leetcode\src\74.search2dMatrix.js">
+      <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="12" count="2" type="stmt"/>
+      <line num="13" count="6" type="stmt"/>
+      <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="5" type="cond" truecount="2" falsecount="0"/>
     </file>
   </project>
 </coverage>

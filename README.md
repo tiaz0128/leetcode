@@ -105,6 +105,7 @@ $ npm test sum.test.js
 
 |  No | problems | difficulty | src | Related Topics | 
 | --- | -------- | ---------- | --- | -------------- |
+| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/ )  | `Array` `Matrix` `Binary Search` |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/36.validSudoku.js)  | `Array`  `Matrix` `HashTable` |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/189.rotateArray.js)  | `Array` |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/283.moveZeroes.js)  | `Array` `Two Pointer` |
