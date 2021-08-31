@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630386005079" clover="3.2.0">
-  <project timestamp="1630386005079" name="All files">
-    <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2" elements="21" coveredelements="21" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
-    <file name="74.search2dMatrix.js" path="D:\workspace\leetcode\src\74.search2dMatrix.js">
-      <metrics statements="9" coveredstatements="9" conditionals="10" coveredconditionals="10" methods="2" coveredmethods="2"/>
-      <line num="6" count="1" type="stmt"/>
-      <line num="7" count="2" type="stmt"/>
-      <line num="9" count="4" type="cond" truecount="4" falsecount="0"/>
-      <line num="10" count="2" type="stmt"/>
-      <line num="12" count="2" type="stmt"/>
-      <line num="13" count="6" type="stmt"/>
-      <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
-      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
-      <line num="18" count="5" type="cond" truecount="2" falsecount="0"/>
+<coverage generated="1630388057100" clover="3.2.0">
+  <project timestamp="1630388057100" name="All files">
+    <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="14" coveredelements="10" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="876.middleOfTheLinkedList.js" path="D:\workspace\leetcode\src\876.middleOfTheLinkedList.js">
+      <metrics statements="13" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="27" count="0" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
