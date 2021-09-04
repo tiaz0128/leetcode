@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630755542556" clover="3.2.0">
-  <project timestamp="1630755542557" name="All files">
-    <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="15" coveredelements="15" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
-    <file name="387.firstUniqueCharacterInString.js" path="D:\workspace\leetcode\src\387.firstUniqueCharacterInString.js">
-      <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
-      <line num="5" count="1" type="stmt"/>
-      <line num="6" count="2" type="stmt"/>
-      <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="5" type="cond" truecount="4" falsecount="0"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="10" count="1" type="stmt"/>
-      <line num="12" count="4" type="stmt"/>
+<coverage generated="1630756763751" clover="3.2.0">
+  <project timestamp="1630756763751" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="11" coveredelements="11" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="383.ransomNote.js" path="D:\workspace\leetcode\src\383.ransomNote.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="2" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="10" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
