@@ -105,6 +105,7 @@ $ npm test sum.test.js
 
 |  No | problems | difficulty | src | Related Topics | 
 | --- | -------- | ---------- | --- | -------------- |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/74.search2dMatrix.js)  | `Hash Table` `String` `Queue` `Counting` |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/74.search2dMatrix.js)  | `Array` `Matrix` `Binary Search` |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/36.validSudoku.js)  | `Array`  `Matrix` `HashTable` |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/19.removeNthNodeFromEndofList.js)  | `Linked List` `Two Pointer` |
