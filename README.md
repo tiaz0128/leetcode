@@ -105,7 +105,8 @@ $ npm test sum.test.js
 
 |  No | problems | difficulty | src | Related Topics | 
 | --- | -------- | ---------- | --- | -------------- |
-| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/383.ransomNote.test.js)  | `Hash Table` `String` `Counting` |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/144.binaryTreePreorderTraversal.js)  | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/383.ransomNote.js)  | `Hash Table` `String` `Counting` |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/387.firstUniqueCharacterInString.js)  | `Hash Table` `String` `Queue` `Counting` |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/74.search2dMatrix.js)  | `Array` `Matrix` `Binary Search` |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/36.validSudoku.js)  | `Array`  `Matrix` `Hash Table` |
