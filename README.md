@@ -105,6 +105,7 @@ $ npm test sum.test.js
 
 |  No | problems | difficulty | src | Related Topics | 
 | --- | -------- | ---------- | --- | -------------- |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/94.binaryTreeInorderTraversal.js)  | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/144.binaryTreePreorderTraversal.js)  | `Stack` `Tree` `Depth-First Search` `Binary Tree` |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/383.ransomNote.js)  | `Hash Table` `String` `Counting` |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Easy | [📄](https://github.com/tiaz0128/leetcode/blob/master/src/387.firstUniqueCharacterInString.js)  | `Hash Table` `String` `Queue` `Counting` |
